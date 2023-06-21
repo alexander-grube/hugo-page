@@ -1,0 +1,11 @@
+title = "ALEXGRUBE.DEV"
+
+[author]
+name = "Alex Grube"
+image = "img/author.png"
+headline = "Fullstack Software Engineer"
+bio = "A little bit about me"
+links = [
+  { linkedin = "https://www.linkedin.com/in/alexander-grube-220b24217/" },
+  { github = "https://github.com/alexander-grube"}
+]
