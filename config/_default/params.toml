@@ -1,3 +1,13 @@
-colorScheme = "marvel"
-homepage.layout = "background"
-homepage.homepageImage = "img/background.jpeg"
+colorScheme = "Marvel"
+enableSearch = false
+
+[homepage]
+layout = "background"
+homepageImage = "img/background.jpeg"
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showThemeAttribution = false
+showScrollToTop = true
